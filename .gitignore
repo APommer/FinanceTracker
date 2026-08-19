@@ -1,0 +1,104 @@
+# Arquivos do Eclipse
+.classpath
+.project
+.settings/
+*.iml
+*.iws
+.idea/
+*.class
+
+# Arquivos compilados
+/bin/
+/target/
+/build/
+/out/
+
+# Logs e temporários
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Arquivos do Maven/Gradle (se usar)
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/
+mvnw
+mvnw.cmd
+
+# Banco de dados (se tiver)
+*.db
+*.sqlit.classpath
+.project
+.settings/
+*.iml
+*.iws
+.idea/
+*.class
+
+# Arquivos compilados
+/bin/
+/target/
+/build/
+/out/
+
+# Logs e temporários
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Arquivos do Maven/Gradle (se usar)
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/
+mvnw
+mvnw.cmd
+
+# Banco de dados (se tiver)
+*.db
+*.sqlite.classpath
+.project
+.settings/
+*.iml
+*.iws
+.idea/
+*.class
+
+# Arquivos compilados
+/bin/
+/target/
+/build/
+/out/
+
+# Logs e temporários
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Arquivos do Maven/Gradle (se usar)
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/
+mvnw
+mvnw.cmd
+
+# Banco de dados (se tiver)
+*.db
+*.sqlite
