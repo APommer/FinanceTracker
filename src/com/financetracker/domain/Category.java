@@ -8,11 +8,20 @@ public class Category {
        }
        
        public Category(String name, Type type) {
-    	    this.name = name;    
+    	   if (name != null) {
+    		   this.name = normalizeWord(name);    
+    	   }else {
+    		   throw new IllegalArgumentException("Nome inválido");
+    	   }
+    	    
     	    this.type = type;
     	    }
        
        public boolean isExpense() {
     	   return type == Type.EXPENSE;
+       }
+       private String normalizeWord(String word) {
+    	   
+    	   return name = word.substring(0, 1).toUpperCase() + word.substring(1);
        }
 }
